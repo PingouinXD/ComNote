@@ -54,6 +54,7 @@ If you have any feedback, please reach out to us at reyner.winata@president.ac.i
 - [@Reyner](https://www.github.com/PingouinXD)
 - [@Widja](https://www.github.com/widjaaa)
 - [@Wirandy](https://www.github.com/Wirandy)
+  
 IT CLass 1
 
 President University, Cikarang, Indonesia
